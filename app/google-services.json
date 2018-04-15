@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "698144858287",
+    "firebase_url": "https://ucpportal-ff770.firebaseio.com",
+    "project_id": "ucpportal-ff770",
+    "storage_bucket": "ucpportal-ff770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698144858287:android:b3f7b9da2b857028",
+        "android_client_info": {
+          "package_name": "com.example.hamzakhan.ucpportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698144858287-4j6v515f9qqs8ds1so9m4kvmotvpnqqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYAz_hbG6Kjj8JhE-pUuMJ2Ooy_y_kvI8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

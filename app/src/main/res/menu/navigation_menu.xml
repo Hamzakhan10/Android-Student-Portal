@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_account"
+        android:icon="@mipmap/ic_person_black_24dp"
+        android:title="Home"/>
+    <item android:id="@+id/navMy_courses"
+        android:icon="@drawable/file2"
+        android:title="My courses" />
+    <item android:id="@+id/nav_material"
+        android:icon="@mipmap/ic_folder_black_24dp"
+        android:title="Course material"/>
+    <item android:id="@+id/nav_announcement"
+        android:icon="@mipmap/ic_add_alert_black_24dp"
+        android:title="Announcements"/>
+    <item android:id="@+id/nav_transcript"
+        android:icon="@mipmap/ic_library_books_black_24dp"
+        android:title="Course catalog"/>
+    <item android:id="@+id/nav_leaves"
+        android:icon="@mipmap/ic_history_black_24dp"
+        android:title="Attendance"/>
+    <item android:id="@+id/nav_settings"
+        android:icon="@mipmap/ic_settings_black_24dp"
+        android:title="settings"/>
+    <item android:id="@+id/nav_logout"
+        android:icon="@mipmap/ic_exit_to_app_black_24dp"
+        android:title="logout"/>
+
+</menu>
